@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**0x7375646F/0x7375646F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sudo**, an enthusiast in **cybersecurity** who loves breaking things and exploring how they work. My primary language is **Go**, and I enjoy scripting with **Python** to solve challenges and automate tasks. 
 
-Here are some ideas to get you started:
+Currently, I'm diving deep into **reverse engineering**, uncovering the inner workings of systems and software. Whether it's solving CTFs, analyzing binaries, or breaking down vulnerabilities, I'm always excited by the puzzle-solving side of security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠 **Skills and Interests**:
+- Go
+- Python
+- Reverse Engineering (Learning)
+- Cybersecurity and CTFs
+
+---
+
+💡 "The only way to truly learn is to break things and put them back together." – Unknown
+
+---
+
+Feel free to explore my repositories, drop a star, or connect for collaboration. Let’s hack and learn together!
+<br><br><br>
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/yukesh-lama-44526231a/)
+[![](https://img.shields.io/badge/discord-blue)](@sudo.dwg)
