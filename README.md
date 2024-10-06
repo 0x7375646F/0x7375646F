@@ -21,4 +21,4 @@ Currently, I'm diving deep into **reverse engineering**, uncovering the inner wo
 Feel free to explore my repositories, drop a star, or connect for collaboration. Let’s hack and learn together!
 <br><br><br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/yukesh-lama-44526231a/)
-[![](https://img.shields.io/badge/discord-blue)]([@sudo.dwg](https://discord.com/users/530953496023924736))
+[![](https://img.shields.io/badge/discord-blue)](https://discord.com/users/530953496023924736)
