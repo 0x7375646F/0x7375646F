@@ -18,6 +18,8 @@ Currently, I'm diving deep into **reverse engineering**, uncovering the inner wo
 
 ---
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3416527" style='border:none;'></iframe>
+
 Feel free to explore my repositories, drop a star, or connect for collaboration. Let’s hack and learn together!
 <br><br><br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/yukesh-lama-44526231a/)
